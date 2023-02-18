@@ -19,7 +19,7 @@
     ],
     "support": {
         "issues": "https://github.com/hyn/multi-tenant/issues",
-        "source": "https://github.com/hyn/multi-tenant",
+        "source": "https://github.com/jonquintero/multi-tenancy",
         "docs": "https://tenancy.dev"
     },
     "require": {
